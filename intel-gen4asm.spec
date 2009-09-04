@@ -1,6 +1,6 @@
 Name: intel-gen4asm
 Version: 20080416
-Release: %mkrel 4
+Release: %mkrel 5
 Summary: a program to compile an assembly language for the Intel 965
 Group: Development/X11
 # git-archive --format=tar --prefix=intel-gen4asm/ master | bzip2 > intel-gen4asm.tar.bz2
