@@ -8,6 +8,11 @@ Source: intel-gen4asm.tar.bz2
 License: MIT
 BuildRoot: %{_tmppath}/%{name}-root
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: flex bison
 
 %description
